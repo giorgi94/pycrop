@@ -1,0 +1,13 @@
+/__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+.vscode/
+
+media/
+env/
+migrations/
+example/djangomediapil
+
+.DS_Store
