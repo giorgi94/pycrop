@@ -6,7 +6,7 @@ README = open(os.path.join(here, 'README.md')).read()
 
 setup(
     name='pycrop',
-    version='1.0',
+    version='1.0.1',
     packages=['pycrop'],
     description='Methods to manipulate images',
     include_package_data=True,

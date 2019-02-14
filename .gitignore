@@ -8,6 +8,10 @@
 media/
 env/
 migrations/
-example/djangomediapil
+example/
 
 .DS_Store
+
+build/
+dist/
+*.egg-info/
